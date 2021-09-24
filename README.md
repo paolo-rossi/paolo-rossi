@@ -2,16 +2,7 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=paolo-rossi&show_icons=true&theme=default)
 
-- ⚡ Fun fact: Ambivert 👀
-- 🔭 I’m currently working on myself 🤖
-- 🌱 I’m currently learning everything ☠
-- 💬 Ask me about any tech stuff you want 🤓
-- 📫 How to reach me: business@muminjon.com 🕸
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paolo-rossi&layout=compact)](https://github.com/paolo-rossi/github-readme-stats)
-
-
-
 
 <!--
 <details>

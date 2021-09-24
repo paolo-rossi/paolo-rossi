@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Paolo
+### Hi there 👋 these are my stats:
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=paolo-rossi&show_icons=true&theme=default)
 
